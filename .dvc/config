@@ -1,0 +1,4 @@
+[core]
+    remote = mylocalremote
+['remote "mylocalremote"']
+    url = E:\MLOps-Project\NYC-TAXI\dvc-storage
